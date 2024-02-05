@@ -1,0 +1,39 @@
+nav {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  text-decoration: none;
+  color: white;
+}
+
+.link1 {
+  text-decoration: none;
+  color: white;
+  margin-right: 40px;
+}
+
+.link2 {
+  text-decoration: none;
+  color: white;
+  margin-right: 40px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  padding-left: 30px;
+}
